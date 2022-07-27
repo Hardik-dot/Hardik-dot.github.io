@@ -1,28 +1,29 @@
 # My Personal Resume
-See my personal website resume <a href="https://windows87.github.io/">Clicking Here</a>.
+See my personal website resume <a href="https://hardik-dot.github.io/">Clicking Here</a>.
 
 ## About Me
-Hi! I'm Yuri Faria, Brazilian, FullStack, and 17 years old. I like to create things with programming, create images, narratives, videos and presentations. I like the development area because the possibility of create things, improve thing and explore creativity.
+Hello!
+I am Hardik, a graduate strudent at the Univeristy of California Irvine pursuing my Masters in Computer Science.
 
-## My History with Code
-I started programming when I was making games with Construct 2 in 2015. Later I started learn HTML, CSS and PHP in 2016. In 2017 I started learn Javascript/Ajax/APIs. In 2018 I started learn React, React-Native, NodeJS and Javascript technologies. In all in these years I maked a lot of personal projects, startup projects and school projects.
+## My Journey So Far
+Having an affinity to solving puzzles and sudoku in my childhood, this passion naturally evolved into solving Data Structures & Algorithms problems during my freshman year at college. This progressed into building websites for Tech fests whic
 
 ## Skills
 ### Languages
-- HTML5 and CSS3
-- Javascript (ES6+)
-- Python
+Java, Python, C, SQL, HTML, JavaScript, Bash
 
 ### Frameworks
-- Express
-- React and Redux
-- React-Native
-- Electron and NWjs
-- Flask
+scikit-learn, Pandas, Numpy, Tkinter, OpenCV, Maven
 
-### Database
-- MySQL
-- MongoDB
+### Technologies
+Docker, Elastic, Logstash, Kibana, Filebeat, REST, React, Firebase, Git, Jupyter, Jira, Scrum
+
+## Professional
+<h3> Nomura </h3> New York NY
+Technology Summer Analyst, Jun 2022 - Aug 2022
+•	Migrated Nomura’s Trade Reporting Application hosted on a legacy windows server to a containerized docker application on Nomura’s Virtual Private Cloud.
+•	Container architecture enabled executing multiple jobs simultaneously as separate container instances which led to a 40% reduction in time taken to execute all jobs.
+•	Integrated Elastic stack to aggregate 700+ daily reports, process and index them thus creating a unified searchable catalog with visualization and metrics.
 
 ## Projects
 ### Up and Running
@@ -30,45 +31,6 @@ I started programming when I was making games with Construct 2 in 2015. Later I 
 - <a href="https://play.google.com/store/apps/details?id=com.cspuzzles">Exatas Puzzles</a> - Mobile - 2020/Today
 - <a href="https://play.google.com/store/apps/details?id=com.federalagenda">Federal Agenda</a> - Mobile and Web - 2019/Today
 
-### Open Source Projects
-#### Relevant  
-- AILab - Web - May/2020 - <a href="https://github.com/Windows87/deeplab">Github Repository</a>
-- <a href="https://play.google.com/store/apps/details?id=com.thewikipediaarticlegamemobile">The Wikipédia Article Game Mobile</a> - Mobile - Oct/2019 - <a href="https://github.com/Windows87/the-wikipedia-article-game-mobile/">Github Repository</a>
-- Basic Javascript Guide (Portuguese) - Markdown - Oct/2019 - <a href="https://github.com/Windows87/guia-basico-javascript">Github Repository</a>
-- URI Python Answers - URI - 2019 - <a href="https://github.com/Windows87/uri-python">Github Repository</a>
-- <a href="https://windows87.github.io/the-wikipedia-article-game/">The Wikipédia Article Game</a> - Web - Jul/2019 - <a href="https://github.com/Windows87/the-wikipedia-article-game">Github Repository</a>
-- Quotes Generator - NPM Module - Jul/2019 - <a href="https://github.com/Windows87/quotes-photos-generator">Github Repository</a>
-- Geobattle - Web - 2018 - <a href="https://github.com/Windows87/geobattle/">Github Repository</a>
-- Library System - Desktop - Aug/2018 - <a href="https://github.com/Windows87/biblioteca/">Github Repository</a>
-
-#### Just for Fun
-- <a href="https://windows87.github.io/godot-pong-ai/">Godot Pong AI</a> - Game - Jun/2020 - <a href="https://github.com/Windows87/godot-pong-ai">Github Repository</a>
-- Presencial Black - Chrome Extension - Jun/2020 - <a href="https://github.com/Windows87/presencial-black">Github Repository</a>
-- <a href="https://programming-language-akinator.herokuapp.com/">Programming Language Akinator</a> - Web - Apr/2020 - <a href="https://github.com/Windows87/programming-language-akinator">Github Repository</a>
-- <a href="https://superhero-akinator.herokuapp.com/">Superhero Akinator</a> - Web - Apr/2020 - <a href="https://github.com/Windows87/superhero-akinator">Github Repository</a>
-- SlideAI - Web/Desktop - Dec/2019 - <a href="https://github.com/LeoFC97/pptx-maker">Github Repository (Desktop)</a> and <a href="https://github.com/slideai">Github Organization (Web)</a>
-- Physics Conquest Game - Web - Nov/2019 - <a href="https://github.com/Windows87/physics-conquest-game">Github Repository</a>
-- Science Quotes - API - Jul/2019 - <a href="https://github.com/Windows87/science-quotes">Github Repository</a>
-- Trucocraft - Minecraft Plugin - Mar/2019 - <a href="https://github.com/Windows87/trucocraft">Github Repository</a>
-
-#### Less Relevant
-- React Native Heatmap Chart - NPM Module - Sep/2020 - <a href="https://github.com/Windows87/react-native-heatmap-chart">Github Repository</a>
-- Sistema Hackathon Covid-19 IFSULDEMINAS - Web - Apr/2020 - <a href="https://github.com/Windows87/sistema-hackathon-covid19">Github Repository</a>
-- Flask Image! - Web - Mar/2020 - <a href="https://github.com/Windows87/image-upload-flask">Github Repository</a>
-- <a href="https://windows87.github.io/mini-pokedex/">Mini Pokedex</a> - Web - Ago/2019 - <a href="https://github.com/Windows87/mini-pokedex">Github Repository</a>
-- <a href="https://windows87.github.io/seminfo-javascript-moderno/">Oficina de Javascript</a> - Web - Ago/2019 - <a href="https://github.com/Windows87/seminfo-javascript-moderno">Github Repository</a>
-- Quotes Generator - NPM Module - Jul/2019 - <a href="https://github.com/Windows87/quotes-photos-generator">Github Repository</a>
-- <a href="https://windows87.github.io/combine-website/">Combine Website</a> - Web - May/2019 - <a href="https://github.com/Windows87/combine-website/">Github Repository</a>
-- Vanilla Chat - Web - Feb/2019 - <a href="https://github.com/Windows87/vanilla-chat/">Github Repository</a>
-- <a href="https://windows87.github.io/xbm-viewer-converter/">XBM Viewer and Converter</a> - Web - Jan/2019 - <a href="https://github.com/Windows87/xbm-viewer-converter/">Github Repository</a>
-- <a href="https://windows87.github.io/calc/">Calc!</a> - Web - Nov/2018 - <a href="https://github.com/Windows87/calc">Github Repository</a>
-- RNMaps - Mobile - Sep/2018 - <a href="https://github.com/Windows87/RNMaps">Github Repository</a>
-- React Notes - Desktop - Aug/2018 - <a href="https://github.com/Windows87/react-notes/">Github Repository</a>
-- NWjs Contact List - Desktop - Aug/2018 - <a href="https://github.com/Windows87/nwjs-contact-list/">Github Repository</a>
-- React Chat - Web - Jul/2018 - <a href="https://github.com/Windows87/react-chat/">Github Repository</a>
-
-## Professional
-- <a href="https://www.workana.com/freelancer/2cb3c0575b8224b08adaad276bc68389">Workana</a> - Freelancer - 3 Projects
 
 ## Academic
 ### Reserach Projects
